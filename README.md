@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Karmalkar</h1>
 <h3 align="center">Full-Stack Developer | Cloud & AI Enthusiast | Tech Explorer</h3>
 
-<img align="right" alt="Coding GIF" width="350" src="[https://lottie.host/EXAMPLE_YOUR_GIF.gif](https://lottiefiles.com/free-animation/coding-boy-UWmN7VzPet)" />
+<<img align="right" alt="Coding GIF" width="350" src="Coding boy.gif" />
+
 
 ---
 
