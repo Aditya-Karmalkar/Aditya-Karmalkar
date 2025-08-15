@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Karmalkar</h1>
 <h3 align="center">Full-Stack Developer | Cloud & AI Enthusiast | Tech Explorer</h3>
 <p align="right">
-  <iframe src=[https://app.lottiefiles.com/animation/db772e20-6318-47fa-a0e3-724909b0119d] width="350" height="350" style="border:none;"></iframe>
+  <iframe src=["https://app.lottiefiles.com/animation/db772e20-6318-47fa-a0e3-724909b0119d"] width="350" height="350" style="border:none;"></iframe>
 </p>
 
 ---
