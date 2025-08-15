@@ -1,65 +1,64 @@
 <h1 align="center">Hi 👋, I'm Aditya Karmalkar</h1>
 <h3 align="center">Full-Stack Developer | Cloud & AI Enthusiast | Tech Explorer</h3>
 
-<p align="right">
-  <a href="https://app.lottiefiles.com/animation/db772e20-6318-47fa-a0e3-724909b0119d" target="_blank">
-    <img src="https://lottiefiles.com/share/db772e20-6318-47fa-a0e3-724909b0119d/thumbnail.jpg" alt="Coding Animation" width="350" />
+<p align="center">
+  <a href="https://lottie.host/febb7393-28a3-45bd-a322-532b4702b9aa/P4h13SJ0vj.lottie" target="_blank">
+    <img src="https://i.ibb.co/zXx3Vb6/lottie-preview.png" width="300" alt="Click to view Lottie Animation" />
   </a>
 </p>
 
 ---
 
-## 🔍 About Me
-
+🔍 **About Me**  
 - 💻 Passionate about building **scalable web & mobile apps**  
 - ☁️ Exploring **AWS**, **Cloud-native solutions**, and **AI-powered tools**  
 - 🛠 Skilled in **Flutter**, **React**, **Node.js**, **Python**, and **Java**  
 - 🚀 Love turning ideas into real-world products  
 - 🤝 Open to **collaborations** and **exciting projects**  
-- 📫 Reach me at: **[adityanv.karmalkar@gmail.com](mailto:adityanv.karmalkar@gmail.com)**
+- 📫 Reach me at: **[adityanv.karmalkar@gmail.com](mailto:adityanv.karmalkar@gmail.com)**  
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages:**  
-`Java` `Python` `JavaScript` `Dart` `SQL`
-
-**Frameworks & Libraries:**  
-`React.js` `Node.js` `Flutter` `Express` `Spring Boot`
-
-**Databases & Tools:**  
-`MySQL` `MongoDB` `Postman` `Git` `GitHub` `AWS`
+📫 **Connect With Me**  
+<p>
+  <a href="https://linkedin.com/in/aditya-karmalkar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" /></a>
+  <a href="mailto:adityanv.karmalkar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Aditya-Karmalkar" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" /></a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+🛠️ **Tech Stack**  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Karmalkar&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Karmalkar&theme=tokyonight" alt="GitHub Streak" width="48%">
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" width="40"/>
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python" width="40"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="40"/>
+  <img src="https://img.icons8.com/color/48/dart.png" alt="Dart" width="40"/>
+  <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot" width="40"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" width="40"/>
+  <img src="https://img.icons8.com/offices/40/react.png" alt="React.js" width="40"/>
+  <img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="MySQL" width="40"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" width="40"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="40"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub" width="40" style="background-color:white; border-radius: 6px; padding: 4px"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+📊 **GitHub Stats**  
 
-- Contributed to **Open Source** projects  
-- Built multiple **end-to-end apps** using MERN & Flutter  
-- AWS & Cloud deployment experience  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Karmalkar&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya-Karmalkar&theme=tokyonight" alt="GitHub Streak" width="48%">
+</p>
 
 ---
 
-## 🌐 Connect With Me
+🏆 **Achievements**  
 
-<p align="left">
-<a href="https://linkedin.com/in/aditya-karmalkar" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:adityanv.karmalkar@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-</a>
-<a href="https://github.com/Aditya-Karmalkar" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-</a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aditya-Karmalkar&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
+
