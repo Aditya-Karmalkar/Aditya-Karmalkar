@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aditya Karmalkar</h1>
 <h3 align="center">Full-Stack Developer | Cloud & AI Enthusiast | Tech Explorer</h3>
+
 <p align="right">
-  <iframe src=["https://app.lottiefiles.com/animation/db772e20-6318-47fa-a0e3-724909b0119d"] width="350" height="350" style="border:none;"></iframe>
+  <a href="https://app.lottiefiles.com/animation/db772e20-6318-47fa-a0e3-724909b0119d" target="_blank">
+    <img src="https://lottiefiles.com/share/db772e20-6318-47fa-a0e3-724909b0119d/thumbnail.jpg" alt="Coding Animation" width="350" />
+  </a>
 </p>
 
 ---
@@ -53,7 +56,7 @@
 <a href="https://linkedin.com/in/aditya-karmalkar" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="mailto:your.email@example.com">
+<a href="mailto:adityanv.karmalkar@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
 </a>
 <a href="https://github.com/Aditya-Karmalkar" target="_blank">
