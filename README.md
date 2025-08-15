@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Karmalkar</h1>
 <h3 align="center">Full-Stack Developer | Cloud & AI Enthusiast | Tech Explorer</h3>
-
-<<img align="right" alt="Coding GIF" width="350" src="Coding boy.gif" />
-
+<p align="right">
+  <iframe src="https://embed.lottiefiles.com/animation/DB772E20-ID-HERE" width="350" height="350" style="border:none;"></iframe>
+</p>
 
 ---
 
