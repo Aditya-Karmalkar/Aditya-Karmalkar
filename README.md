@@ -2,13 +2,7 @@
 <h3 align="center">Full-Stack Developer | Cloud & AI Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-  <video src="https://github.com/Aditya-Karmalkar/Aditya-Karmalkar/blob/main/assets/animation.mp4" 
-         width="300" 
-         autoplay 
-         loop 
-         muted 
-         playsinline>
-  </video>
+  <video src="animation.mp4" autoplay loop muted playsinline width="300"></video>
 </p>
 
 ---
