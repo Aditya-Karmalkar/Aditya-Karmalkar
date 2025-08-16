@@ -2,9 +2,13 @@
 <h3 align="center">Full-Stack Developer | Cloud & AI Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-  <a href="https://lottie.host/febb7393-28a3-45bd-a322-532b4702b9aa/P4h13SJ0vj.lottie" target="_blank">
-    <img src="https://i.ibb.co/zXx3Vb6/lottie-preview.png" width="300" alt="Click to view Lottie Animation" />
-  </a>
+  <video src="https://github.com/Aditya-Karmalkar/Aditya-Karmalkar/blob/main/assets/animation.mp4" 
+         width="300" 
+         autoplay 
+         loop 
+         muted 
+         playsinline>
+  </video>
 </p>
 
 ---
@@ -61,4 +65,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aditya-Karmalkar&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
-
