@@ -15,7 +15,7 @@
 
 📫 **Connect With Me**  
 <p>
-  <a href="https://linkedin.com/in/aditya-karmalkar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" /></a>
+  <a href="[https://linkedin.com/in/aditya-karmalkar-242274262/]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" /></a>
   <a href="mailto:adityanv.karmalkar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Aditya-Karmalkar" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" /></a>
 </p>
