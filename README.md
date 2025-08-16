@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Karmalkar</h1>
 <h3 align="center">Full-Stack Developer | Cloud & AI Enthusiast | Tech Explorer</h3>
 
-<p align="center">
-  <video src="[animation.mp4](https://github.com/Aditya-Karmalkar/Aditya-Karmalkar/blob/main/animation.mp4)" autoplay loop muted playsinline width="300"></video>
-</p>
-
 ---
 
 🔍 **About Me**  
