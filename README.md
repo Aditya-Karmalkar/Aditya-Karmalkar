@@ -21,17 +21,23 @@ I design, build, and scale modern applications using clean architecture, cloud p
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me 
 
 <p align="center">
   <a href="https://linkedin.com/in/aditya-karmalkar-242274262/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=flat&logoColor=white"/>
   </a>
+
   <a href="mailto:adityanv.karmalkar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=flat&logoColor=white"/>
   </a>
+
   <a href="https://github.com/Aditya-Karmalkar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=flat&logoColor=white"/>
+  </a>
+
+  <a href="https://adityakarmalkar.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&style=flat&logoColor=white"/>
   </a>
 </p>
 
