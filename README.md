@@ -80,9 +80,19 @@ MySQL • MongoDB • Firebase
 
 ## 🏅 GitHub Achievements
 
-- <a href="https://github.com/users/Aditya-Karmalkar/achievements/yolo" target="_blank">YOLO Achievement</a>
-- <a href="https://github.com/users/Aditya-Karmalkar/achievements/pull-shark" target="_blank">Pull Shark</a>
-- <a href="https://github.com/users/Aditya-Karmalkar/achievements/quickdraw" target="_blank">Quickdraw</a>
+<p align="center">
+  <a href="https://github.com/users/Aditya-Karmalkar/achievements/yolo" target="_blank">
+    <img src="https://img.shields.io/badge/YOLO-Achievement-ff69b4?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://github.com/users/Aditya-Karmalkar/achievements/pull-shark" target="_blank">
+    <img src="https://img.shields.io/badge/Pull_Shark-Achievement-00bfff?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://github.com/users/Aditya-Karmalkar/achievements/quickdraw" target="_blank">
+    <img src="https://img.shields.io/badge/Quickdraw-Achievement-8a2be2?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 
 ---
