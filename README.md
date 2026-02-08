@@ -78,10 +78,13 @@ MySQL • MongoDB • Firebase
 
 ## 🏆 Achievements & Highlights  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya-Karmalkar&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
-</p>
+## 🏅 GitHub Achievements
+
+- <a href="https://github.com/users/Aditya-Karmalkar/achievements/yolo" target="_blank">YOLO Achievement</a>
+- <a href="https://github.com/users/Aditya-Karmalkar/achievements/pull-shark" target="_blank">Pull Shark</a>
+- <a href="https://github.com/users/Aditya-Karmalkar/achievements/quickdraw" target="_blank">Quickdraw</a>
+
 
 ---
 
-⭐ *I enjoy solving real problems, learning fast, and shipping meaningful software.*
+*I enjoy solving real problems, learning fast, and shipping meaningful software.*
